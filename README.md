@@ -1,5 +1,5 @@
 # Dino Games 
-Dino game for Digital Innovation One Lesson, using only JS, HTML and CSS
+Dino games desenvolvido Digital Innovation One, usando HTML5, JavaScript e CSS
 
 ![screenshot](example.png?raw=true "screenshot")
 
